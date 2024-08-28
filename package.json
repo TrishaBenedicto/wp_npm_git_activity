@@ -1,0 +1,11 @@
+{
+  "name": "wp_npm_git_activity",
+  "version": "1.0.0",
+  "description": "\u0016\u0016NPM and GIT activity",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Trisha \u001bbBenedicto",
+  "license": "MIT"
+}
